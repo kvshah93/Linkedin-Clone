@@ -1,4 +1,9 @@
 This project was bootstrapped with [Reactjs](https://reactjs.org/), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Example
+
+![index](https://user-images.githubusercontent.com/29256977/137797510-25792dc7-97c5-4533-84a3-a8e796bf59f4.PNG)
+
+
 
 ## Available Scripts
 
